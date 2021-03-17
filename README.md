@@ -1,1 +1,1 @@
-Sistema de ventas realizado en Java Ventanta
+Sistema de ventas realizado en Java Ventana
