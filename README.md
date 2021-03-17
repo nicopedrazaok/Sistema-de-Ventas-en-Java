@@ -1,1 +1,1 @@
-# Sistema-de-Ventas-en-Java
+Sistema de ventas realizado en Java Ventanta
